@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-26T10:56:36.354Z",
+  "updated_at": "2026-08-26T10:56:55.599Z",
   "items": {
     "101000004": {
       "id": "101000004",
@@ -949,6 +949,18 @@
       "image_uploaded": true,
       "image_path": "assets/characters/103000003.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/characters/103000003.png"
+    },
+    "103000004": {
+      "id": "103000004",
+      "name": "Chrono's Microchip",
+      "category": "characters",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/103000004.png",
+      "discovered": true,
+      "discovered_at": "2026-08-26T10:56:53.552Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/characters/103000004.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/characters/103000004.png"
     }
   }
 }
