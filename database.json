@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-27T05:56:04.853Z",
+  "updated_at": "2026-08-27T05:59:19.411Z",
   "items": {
     "101000004": {
       "id": "101000004",
@@ -101426,6 +101426,18 @@
       "image_path": "assets/head/211051009.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051009.png"
     },
+    "211051012": {
+      "id": "211051012",
+      "name": "Lava Fury (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051012.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051012.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051012.png"
+    },
     "211051013": {
       "id": "211051013",
       "name": "Lava Fury (Head)",
@@ -101449,6 +101461,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211051014.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051014.png"
+    },
+    "211051015": {
+      "id": "211051015",
+      "name": "Grim Hayman (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051015.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051015.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051015.png"
     },
     "211051016": {
       "id": "211051016",
@@ -101474,6 +101498,18 @@
       "image_path": "assets/head/211051017.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051017.png"
     },
+    "211051018": {
+      "id": "211051018",
+      "name": "Blazing Trials (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051018.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051018.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051018.png"
+    },
     "211051019": {
       "id": "211051019",
       "name": "Blazing Trials (Head)",
@@ -101485,6 +101521,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211051019.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051019.png"
+    },
+    "211051020": {
+      "id": "211051020",
+      "name": "Cyber Operator (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051020.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051020.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051020.png"
     },
     "211051021": {
       "id": "211051021",
@@ -101510,6 +101558,18 @@
       "image_path": "assets/head/211051022.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051022.png"
     },
+    "211051023": {
+      "id": "211051023",
+      "name": "Fashion Monster (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051023.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051023.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051023.png"
+    },
     "211051024": {
       "id": "211051024",
       "name": "Fashion Monster (Head)",
@@ -101533,6 +101593,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211051025.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051025.png"
+    },
+    "211051026": {
+      "id": "211051026",
+      "name": "Peppy Summer (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051026.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051026.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051026.png"
     },
     "211051027": {
       "id": "211051027",
@@ -101558,6 +101630,30 @@
       "image_path": "assets/head/211051028.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051028.png"
     },
+    "211051029": {
+      "id": "211051029",
+      "name": "Goldhand Wrecker (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051029.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051029.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051029.png"
+    },
+    "211051030": {
+      "id": "211051030",
+      "name": "Goldhand Lady (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051030.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051030.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051030.png"
+    },
     "211051031": {
       "id": "211051031",
       "name": "Goldhand Lady (Head)",
@@ -101581,6 +101677,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211051032.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051032.png"
+    },
+    "211051033": {
+      "id": "211051033",
+      "name": "FFWS Role Star (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051033.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051033.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051033.png"
     },
     "211051034": {
       "id": "211051034",
@@ -101630,6 +101738,30 @@
       "image_path": "assets/head/211051037.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051037.png"
     },
+    "211051038": {
+      "id": "211051038",
+      "name": "Little Red Sleep Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051038.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051038.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051038.png"
+    },
+    "211051039": {
+      "id": "211051039",
+      "name": "HEARTROCKER (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051039.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051039.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051039.png"
+    },
     "211051040": {
       "id": "211051040",
       "name": "HEARTROCKER (Head)",
@@ -101641,6 +101773,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211051040.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051040.png"
+    },
+    "211051041": {
+      "id": "211051041",
+      "name": "HEARTROCKER Uniform (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051041.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051041.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051041.png"
     },
     "211051042": {
       "id": "211051042",
@@ -101690,6 +101834,30 @@
       "image_path": "assets/head/211051045.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051045.png"
     },
+    "211051046": {
+      "id": "211051046",
+      "name": "SEA Games Thailand Jersey (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051046.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051046.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051046.png"
+    },
+    "211051047": {
+      "id": "211051047",
+      "name": "Dreamy Yeti (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211051047.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211051047.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211051047.png"
+    },
     "211051048": {
       "id": "211051048",
       "name": "Safekeeper (Head)",
@@ -101701,6 +101869,90 @@
       "image_uploaded": true,
       "image_path": "assets/head/211051048.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211051048.png"
+    },
+    "211052000": {
+      "id": "211052000",
+      "name": "Yuji Itadori Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052000.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052000.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052000.png"
+    },
+    "211052001": {
+      "id": "211052001",
+      "name": "Megumi Fushiguro Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052001.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052001.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052001.png"
+    },
+    "211052002": {
+      "id": "211052002",
+      "name": "Satoru Gojo Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052002.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052002.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052002.png"
+    },
+    "211052003": {
+      "id": "211052003",
+      "name": "Satoru Gojo's Blindfold",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052003.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052003.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052003.png"
+    },
+    "211052004": {
+      "id": "211052004",
+      "name": "Nobara Kugisaki Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052004.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.117Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052004.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052004.png"
+    },
+    "211052005": {
+      "id": "211052005",
+      "name": "Kento Nanami's Glasses",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052005.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052005.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052005.png"
+    },
+    "211052006": {
+      "id": "211052006",
+      "name": "Ryomen Sukuna White Robe Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052006.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052006.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052006.png"
     },
     "211052007": {
       "id": "211052007",
@@ -101726,6 +101978,18 @@
       "image_path": "assets/head/211052008.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052008.png"
     },
+    "211052009": {
+      "id": "211052009",
+      "name": "Uncharted Voyager (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052009.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052009.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052009.png"
+    },
     "211052010": {
       "id": "211052010",
       "name": "Uncharted Voyager (Head)",
@@ -101750,6 +102014,18 @@
       "image_path": "assets/head/211052011.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052011.png"
     },
+    "211052012": {
+      "id": "211052012",
+      "name": "Chillin' Emoji (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052012.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052012.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052012.png"
+    },
     "211052013": {
       "id": "211052013",
       "name": "Sweetie Emoji (Head)",
@@ -101773,6 +102049,30 @@
       "image_uploaded": true,
       "image_path": "assets/head/211052014.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052014.png"
+    },
+    "211052015": {
+      "id": "211052015",
+      "name": "Beat Beast (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052015.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052015.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052015.png"
+    },
+    "211052016": {
+      "id": "211052016",
+      "name": "Beat Leopard (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052016.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052016.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052016.png"
     },
     "211052017": {
       "id": "211052017",
@@ -101810,6 +102110,30 @@
       "image_path": "assets/head/211052019.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052019.png"
     },
+    "211052020": {
+      "id": "211052020",
+      "name": "Quackman (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052020.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052020.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052020.png"
+    },
+    "211052021": {
+      "id": "211052021",
+      "name": "Shadow Walker (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052021.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052021.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052021.png"
+    },
     "211052022": {
       "id": "211052022",
       "name": "Shadow Walker (Head)",
@@ -101822,6 +102146,18 @@
       "image_path": "assets/head/211052022.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052022.png"
     },
+    "211052023": {
+      "id": "211052023",
+      "name": "Treasure Chaser (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052023.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052023.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052023.png"
+    },
     "211052024": {
       "id": "211052024",
       "name": "Treasure Chaser (Head)",
@@ -101833,6 +102169,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211052024.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052024.png"
+    },
+    "211052025": {
+      "id": "211052025",
+      "name": "Treasure Seeker (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052025.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052025.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052025.png"
     },
     "211052026": {
       "id": "211052026",
@@ -101882,6 +102230,18 @@
       "image_path": "assets/head/211052029.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052029.png"
     },
+    "211052030": {
+      "id": "211052030",
+      "name": "Mono Charm (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052030.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052030.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052030.png"
+    },
     "211052031": {
       "id": "211052031",
       "name": "Mono Charm (Head)",
@@ -101893,6 +102253,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211052031.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052031.png"
+    },
+    "211052032": {
+      "id": "211052032",
+      "name": "8-Bit Dude (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052032.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052032.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052032.png"
     },
     "211052033": {
       "id": "211052033",
@@ -101942,6 +102314,18 @@
       "image_path": "assets/head/211052036.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052036.png"
     },
+    "211052037": {
+      "id": "211052037",
+      "name": "Roaring Superstar (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052037.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052037.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052037.png"
+    },
     "211052038": {
       "id": "211052038",
       "name": "Roaring Superstar (Head)",
@@ -101953,6 +102337,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211052038.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052038.png"
+    },
+    "211052039": {
+      "id": "211052039",
+      "name": "Rodeo Superstar (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052039.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052039.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052039.png"
     },
     "211052040": {
       "id": "211052040",
@@ -101966,6 +102362,30 @@
       "image_path": "assets/head/211052040.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052040.png"
     },
+    "211052041": {
+      "id": "211052041",
+      "name": "Sea Monster (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052041.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052041.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052041.png"
+    },
+    "211052042": {
+      "id": "211052042",
+      "name": "Sea Kelp (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052042.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052042.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052042.png"
+    },
     "211052043": {
       "id": "211052043",
       "name": "Sea Kelp (Head)",
@@ -101978,6 +102398,18 @@
       "image_path": "assets/head/211052043.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052043.png"
     },
+    "211052044": {
+      "id": "211052044",
+      "name": "Treasure Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052044.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052044.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052044.png"
+    },
     "211052045": {
       "id": "211052045",
       "name": "Treasure Headpiece Lv. 1",
@@ -101989,6 +102421,42 @@
       "image_uploaded": true,
       "image_path": "assets/head/211052045.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052045.png"
+    },
+    "211052046": {
+      "id": "211052046",
+      "name": "Voyager Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052046.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052046.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052046.png"
+    },
+    "211052047": {
+      "id": "211052047",
+      "name": "Emoji Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052047.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052047.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052047.png"
+    },
+    "211052049": {
+      "id": "211052049",
+      "name": "Chocolate Rabbit (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211052049.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211052049.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211052049.png"
     },
     "211052050": {
       "id": "211052050",
@@ -102050,6 +102518,102 @@
       "image_path": "assets/head/211052054.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211052054.png"
     },
+    "211053000": {
+      "id": "211053000",
+      "name": "Gintoki Sakata Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053000.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053000.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053000.png"
+    },
+    "211053001": {
+      "id": "211053001",
+      "name": "Ginpachi Sakata Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053001.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053001.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053001.png"
+    },
+    "211053002": {
+      "id": "211053002",
+      "name": "Gintoki with Helmet",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053002.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053002.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053002.png"
+    },
+    "211053003": {
+      "id": "211053003",
+      "name": "Kagura Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053003.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053003.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053003.png"
+    },
+    "211053004": {
+      "id": "211053004",
+      "name": "Kagura 3-Z Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053004.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053004.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053004.png"
+    },
+    "211053005": {
+      "id": "211053005",
+      "name": "Sogo's Eye Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053005.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053005.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053005.png"
+    },
+    "211053006": {
+      "id": "211053006",
+      "name": "Shinpachi's Glasses",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053006.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053006.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053006.png"
+    },
+    "211053007": {
+      "id": "211053007",
+      "name": "Sculpted Excellence (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053007.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.118Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053007.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053007.png"
+    },
     "211053008": {
       "id": "211053008",
       "name": "Sculpted Excellence (Head)",
@@ -102062,6 +102626,18 @@
       "image_path": "assets/head/211053008.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053008.png"
     },
+    "211053009": {
+      "id": "211053009",
+      "name": "Sculpted Elegance (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053009.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053009.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053009.png"
+    },
     "211053010": {
       "id": "211053010",
       "name": "Sculpted Elegance (Head)",
@@ -102073,6 +102649,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211053010.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053010.png"
+    },
+    "211053011": {
+      "id": "211053011",
+      "name": "Astral Twinstars (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053011.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053011.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053011.png"
     },
     "211053012": {
       "id": "211053012",
@@ -102098,6 +102686,18 @@
       "image_path": "assets/head/211053013.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053013.png"
     },
+    "211053014": {
+      "id": "211053014",
+      "name": "Lunar Eclipse (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053014.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053014.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053014.png"
+    },
     "211053015": {
       "id": "211053015",
       "name": "Lunar Eclipse (Head)",
@@ -102109,6 +102709,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211053015.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053015.png"
+    },
+    "211053016": {
+      "id": "211053016",
+      "name": "Solar Eclipse (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053016.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053016.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053016.png"
     },
     "211053017": {
       "id": "211053017",
@@ -102122,6 +102734,18 @@
       "image_path": "assets/head/211053017.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053017.png"
     },
+    "211053018": {
+      "id": "211053018",
+      "name": "Undersea Ripples (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053018.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053018.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053018.png"
+    },
     "211053019": {
       "id": "211053019",
       "name": "Undersea Ripples (Head)",
@@ -102134,6 +102758,18 @@
       "image_path": "assets/head/211053019.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053019.png"
     },
+    "211053020": {
+      "id": "211053020",
+      "name": "Undersea Beauty (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053020.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053020.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053020.png"
+    },
     "211053021": {
       "id": "211053021",
       "name": "Undersea Beauty (Head)",
@@ -102145,6 +102781,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211053021.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053021.png"
+    },
+    "211053022": {
+      "id": "211053022",
+      "name": "Undersea Current (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053022.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053022.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053022.png"
     },
     "211053023": {
       "id": "211053023",
@@ -102169,6 +102817,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211053024.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053024.png"
+    },
+    "211053025": {
+      "id": "211053025",
+      "name": "Battle Sweetheart (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053025.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053025.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053025.png"
     },
     "211053026": {
       "id": "211053026",
@@ -102206,6 +102866,18 @@
       "image_path": "assets/head/211053028.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053028.png"
     },
+    "211053029": {
+      "id": "211053029",
+      "name": "Cyber Invader (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053029.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053029.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053029.png"
+    },
     "211053030": {
       "id": "211053030",
       "name": "Cheeky Plush (Head)",
@@ -102230,6 +102902,18 @@
       "image_path": "assets/head/211053031.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053031.png"
     },
+    "211053032": {
+      "id": "211053032",
+      "name": "Fishmonger (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053032.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053032.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053032.png"
+    },
     "211053033": {
       "id": "211053033",
       "name": "Football Girl (Head)",
@@ -102253,6 +102937,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211053034.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053034.png"
+    },
+    "211053035": {
+      "id": "211053035",
+      "name": "Baa Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053035.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053035.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053035.png"
     },
     "211053036": {
       "id": "211053036",
@@ -102326,6 +103022,18 @@
       "image_path": "assets/head/211053041.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053041.png"
     },
+    "211053042": {
+      "id": "211053042",
+      "name": "Sculpted Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211053042.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211053042.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211053042.png"
+    },
     "211053043": {
       "id": "211053043",
       "name": "Football Enthusiast (Head)",
@@ -102398,6 +103106,18 @@
       "image_path": "assets/head/211053049.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211053049.png"
     },
+    "211054000": {
+      "id": "211054000",
+      "name": "Thunderborn MVP (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054000.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054000.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054000.png"
+    },
     "211054001": {
       "id": "211054001",
       "name": "Thunderborn MVP (Head)",
@@ -102410,6 +103130,30 @@
       "image_path": "assets/head/211054001.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054001.png"
     },
+    "211054002": {
+      "id": "211054002",
+      "name": "Baa Baa Wolf (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054002.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054002.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054002.png"
+    },
+    "211054003": {
+      "id": "211054003",
+      "name": "Baa Baa Sheep (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054003.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054003.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054003.png"
+    },
     "211054004": {
       "id": "211054004",
       "name": "Baa Baa Sheep (Head)",
@@ -102421,6 +103165,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211054004.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054004.png"
+    },
+    "211054005": {
+      "id": "211054005",
+      "name": "Crisp Green (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054005.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054005.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054005.png"
     },
     "211054006": {
       "id": "211054006",
@@ -102470,6 +103226,18 @@
       "image_path": "assets/head/211054009.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054009.png"
     },
+    "211054010": {
+      "id": "211054010",
+      "name": "Ember Fracture (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054010.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054010.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054010.png"
+    },
     "211054011": {
       "id": "211054011",
       "name": "Ember Fracture (Head)",
@@ -102481,6 +103249,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211054011.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054011.png"
+    },
+    "211054012": {
+      "id": "211054012",
+      "name": "Scorching Fracture (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054012.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054012.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054012.png"
     },
     "211054013": {
       "id": "211054013",
@@ -102494,6 +103274,18 @@
       "image_path": "assets/head/211054013.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054013.png"
     },
+    "211054014": {
+      "id": "211054014",
+      "name": "Scarlet Warrior (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054014.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.119Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054014.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054014.png"
+    },
     "211054015": {
       "id": "211054015",
       "name": "Scarlet Chanter (Head)",
@@ -102505,6 +103297,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211054015.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054015.png"
+    },
+    "211054016": {
+      "id": "211054016",
+      "name": "Dimensional Bruiser (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054016.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054016.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054016.png"
     },
     "211054017": {
       "id": "211054017",
@@ -102518,6 +103322,18 @@
       "image_path": "assets/head/211054017.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054017.png"
     },
+    "211054018": {
+      "id": "211054018",
+      "name": "Dimensional Brawler (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054018.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054018.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054018.png"
+    },
     "211054019": {
       "id": "211054019",
       "name": "Dimensional Brawler (Head)",
@@ -102530,6 +103346,30 @@
       "image_path": "assets/head/211054019.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054019.png"
     },
+    "211054020": {
+      "id": "211054020",
+      "name": "Cotton Teddy (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054020.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054020.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054020.png"
+    },
+    "211054021": {
+      "id": "211054021",
+      "name": "Captain of Justice (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054021.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054021.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054021.png"
+    },
     "211054022": {
       "id": "211054022",
       "name": "Captain of Justice (Head)",
@@ -102541,6 +103381,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211054022.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054022.png"
+    },
+    "211054023": {
+      "id": "211054023",
+      "name": "Captain of Courage (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054023.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054023.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054023.png"
     },
     "211054024": {
       "id": "211054024",
@@ -102565,6 +103417,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211054025.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054025.png"
+    },
+    "211054026": {
+      "id": "211054026",
+      "name": "Metallic Groove (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054026.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054026.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054026.png"
     },
     "211054027": {
       "id": "211054027",
@@ -102662,6 +103526,18 @@
       "image_path": "assets/head/211054034.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054034.png"
     },
+    "211054035": {
+      "id": "211054035",
+      "name": "Flowing Fracture (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054035.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054035.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054035.png"
+    },
     "211054036": {
       "id": "211054036",
       "name": "Flowing Fracture (Head)",
@@ -102685,6 +103561,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211054037.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054037.png"
+    },
+    "211054038": {
+      "id": "211054038",
+      "name": "Cute Energy (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054038.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054038.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054038.png"
     },
     "211054039": {
       "id": "211054039",
@@ -102710,6 +103598,30 @@
       "image_path": "assets/head/211054040.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054040.png"
     },
+    "211054041": {
+      "id": "211054041",
+      "name": "Woolly Wolf Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054041.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054041.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054041.png"
+    },
+    "211054042": {
+      "id": "211054042",
+      "name": "Crisp Red Glasses",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054042.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054042.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054042.png"
+    },
     "211054043": {
       "id": "211054043",
       "name": "Rosy Groove (Head)",
@@ -102721,6 +103633,54 @@
       "image_uploaded": true,
       "image_path": "assets/head/211054043.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054043.png"
+    },
+    "211054044": {
+      "id": "211054044",
+      "name": "Rey Mysterio (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054044.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054044.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054044.png"
+    },
+    "211054045": {
+      "id": "211054045",
+      "name": "La Parka Returns (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054045.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054045.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054045.png"
+    },
+    "211054046": {
+      "id": "211054046",
+      "name": "lnwTrue (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054046.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054046.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054046.png"
+    },
+    "211054047": {
+      "id": "211054047",
+      "name": "Rin Mask",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054047.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T05:56:57.120Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054047.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054047.png"
     },
     "211054050": {
       "id": "211054050",
