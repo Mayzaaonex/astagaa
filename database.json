@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-27T05:59:19.411Z",
+  "updated_at": "2026-08-27T06:00:35.655Z",
   "items": {
     "101000004": {
       "id": "101000004",
@@ -103682,6 +103682,30 @@
       "image_path": "assets/mask/211054047.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054047.png"
     },
+    "211054048": {
+      "id": "211054048",
+      "name": "Boss Banana (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054048.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T06:00:16.857Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054048.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054048.png"
+    },
+    "211054049": {
+      "id": "211054049",
+      "name": "Sassy Strawberry (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054049.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T06:00:16.858Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054049.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054049.png"
+    },
     "211054050": {
       "id": "211054050",
       "name": "Street Diva (Head)",
@@ -103694,6 +103718,18 @@
       "image_path": "assets/head/211054050.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054050.png"
     },
+    "211054051": {
+      "id": "211054051",
+      "name": "Street Swagger (Mask)",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211054051.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T06:00:16.858Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211054051.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211054051.png"
+    },
     "211054052": {
       "id": "211054052",
       "name": "Street Swagger (Head)",
@@ -103705,6 +103741,18 @@
       "image_uploaded": true,
       "image_path": "assets/head/211054052.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/head/211054052.png"
+    },
+    "211055003": {
+      "id": "211055003",
+      "name": "Hinata Headwear",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/211055003.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T06:00:16.858Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/211055003.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/211055003.png"
     },
     "700000001": {
       "id": "700000001",
@@ -134378,6 +134426,18 @@
       "image_path": "assets/bundles/710053092.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/bundles/710053092.png"
     },
+    "710053093": {
+      "id": "710053093",
+      "name": "Gintoki with Helmet",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/710053093.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T06:00:16.857Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/710053093.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/710053093.png"
+    },
     "710053097": {
       "id": "710053097",
       "name": "Brazil 2026 Home Jersey Bundle",
@@ -134917,6 +134977,18 @@
       "image_uploaded": true,
       "image_path": "assets/bundles/720000176.png",
       "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/bundles/720000176.png"
+    },
+    "720000177": {
+      "id": "720000177",
+      "name": "Warrior Box",
+      "category": "mask",
+      "image_url": "https://raw.githubusercontent.com/ShahGCreator/icon/main/PNG/720000177.png",
+      "discovered": true,
+      "discovered_at": "2026-08-27T06:00:16.857Z",
+      "image_downloaded": true,
+      "image_uploaded": true,
+      "image_path": "assets/mask/720000177.png",
+      "github_url": "https://github.com/Mayzaaonex/astagaa/blob/main/assets/mask/720000177.png"
     },
     "720029001": {
       "id": "720029001",
